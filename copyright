@@ -7,6 +7,7 @@ Files: gtk_global_menu.py
  main.cpp
  wayfire-socket.cpp
  wayfire-socket.hpp
+ gtk4_menubar_test.py
 Copyright: 2026 Daniel Kondor <kondor.dani@gmail.com>
 License: public-domain
 
